@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "HolSFstep1", "HolSFstep1\HolSFstep1.sfproj", "{6E95DA43-6938-4DCF-AF44-9F9CA4E72D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvcStateless1", "SvcStateless1\SvcStateless1.csproj", "{DBAEE9B6-A9D9-4E51-960C-C99BA541FDF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E95DA43-6938-4DCF-AF44-9F9CA4E72D51}.Debug|x64.ActiveCfg = Debug|x64
+		{6E95DA43-6938-4DCF-AF44-9F9CA4E72D51}.Debug|x64.Build.0 = Debug|x64
+		{6E95DA43-6938-4DCF-AF44-9F9CA4E72D51}.Debug|x64.Deploy.0 = Debug|x64
+		{6E95DA43-6938-4DCF-AF44-9F9CA4E72D51}.Release|x64.ActiveCfg = Release|x64
+		{6E95DA43-6938-4DCF-AF44-9F9CA4E72D51}.Release|x64.Build.0 = Release|x64
+		{6E95DA43-6938-4DCF-AF44-9F9CA4E72D51}.Release|x64.Deploy.0 = Release|x64
+		{DBAEE9B6-A9D9-4E51-960C-C99BA541FDF6}.Debug|x64.ActiveCfg = Debug|x64
+		{DBAEE9B6-A9D9-4E51-960C-C99BA541FDF6}.Debug|x64.Build.0 = Debug|x64
+		{DBAEE9B6-A9D9-4E51-960C-C99BA541FDF6}.Release|x64.ActiveCfg = Release|x64
+		{DBAEE9B6-A9D9-4E51-960C-C99BA541FDF6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
